@@ -69,9 +69,9 @@ algolia:
   powered_by             : # true (default), false
 google:
   search_engine_id       : "ac6f253f8f70a6634"
-  instant_search         : # false (default), true
+  instant_search         : "true" # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "gSeIKV4RYpWmI35PJvBz5j45vU3pIo83nyOgboPVoV0"
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
