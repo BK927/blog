@@ -58,9 +58,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : "true"
-search                   : "true"
-search_full_content      : "true"
+  hide                   : true
+search                   : true
+search_full_content      : true
 search_provider          : "google"
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -265,6 +265,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
