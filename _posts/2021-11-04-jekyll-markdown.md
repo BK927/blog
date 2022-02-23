@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: 제킬 마크다운 문법 샘플
 date: 2021-11-04
 categories: [""]
