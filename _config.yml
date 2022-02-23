@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "나의 일기장"
+title                    : "달의 뒷면"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "BK927"
-description              : "삶을 기록하고, 계획하고, 반성하는 곳입니다."
+description              : "삶을 기록하고, 계획하고, 반성하는 곳. 그리고 솔직한 본모습."
 url                      : "https://bk927.github.io"
 baseurl                  : "/blog"
 repository               : "BK927/blog"
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : "true"
 search                   : "true"
 search_full_content      : "true"
 search_provider          : "google"
