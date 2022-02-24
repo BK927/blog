@@ -2,9 +2,9 @@
 main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "연도별 포스트"
+  - title: "아카이브"
     url: /year-archive/
-  - title: "카테고리별 포스트"
+  - title: "카테고리"
     url: /categories/
-  - title: "태그별 포스트"
+  - title: "태그"
     url: /tags/
