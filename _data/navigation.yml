@@ -2,9 +2,9 @@
 main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  title: "연도별 포스트"
+  url: /year-archive/
+  title: "카테고리별 포스트"
+  url: /categories/
+  title: 태그별 포스트"
+  url: /tags/
