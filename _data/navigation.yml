@@ -6,5 +6,5 @@ main:
     url: /year-archive/
   - title: "카테고리별 포스트"
     url: /categories/
-  - title: 태그별 포스트"
+  - title: "태그별 포스트"
     url: /tags/
