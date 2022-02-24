@@ -31,7 +31,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "utterances"
+  provider               : "disqus"
   disqus:
     shortname            : "https-bk927-github-io-blog" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
