@@ -1,7 +1,6 @@
 ---
 title: "명예의 전당"
 permalink: /hall-of-fame/
-layout: posts
 ---
 
 명예의 전당은 지금까지 이룬 목표나, 유지하고 있는 습관, 그리고 성공적으로 진행중인 목표를 기록합니다.
