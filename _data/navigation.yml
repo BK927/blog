@@ -2,6 +2,8 @@
 main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "명예의 전당"
+    url: /hall-of-fame/
   - title: "아카이브"
     url: /year-archive/
   - title: "카테고리"
