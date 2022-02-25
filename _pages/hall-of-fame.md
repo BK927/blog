@@ -2,9 +2,10 @@
 title: "명예의 전당"
 permalink: /hall-of-fame/
 layout: single
+author_profile: true
 toc: true
 toc_label: 목차
-toc_icon: fa-trophy
+toc_icon: trophy
 toc_sticky: true
 ---
 
@@ -21,3 +22,4 @@ toc_sticky: true
 ## 진행중인 목표
 
 아직 없음
+
