@@ -7,12 +7,11 @@ sections:
 - type: document
   path: _pages/hall-of-fame.md
   label: 명예의 전당
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: assets/images
+public_path: "/assets/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
