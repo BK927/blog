@@ -34,3 +34,19 @@ fields:
 - name: toc
   type: boolean
   label: toc
+- name: toc_label
+  type: text
+  config:
+    required: false
+  label: toc_label
+  default: 목차
+  showOnly:
+    field: toc
+    value: true
+- name: toc_sticky
+  type: boolean
+  label: toc_sticky
+  default: true
+  showOnly:
+    field: toc
+    value: true
