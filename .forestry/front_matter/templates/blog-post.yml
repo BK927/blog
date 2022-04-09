@@ -50,3 +50,5 @@ fields:
   showOnly:
     field: toc
     value: true
+pages:
+- _posts/test.md
