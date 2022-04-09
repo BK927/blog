@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: _pages/hall-of-fame.md
+  label: 명예의 전당
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
