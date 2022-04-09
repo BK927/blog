@@ -27,10 +27,6 @@ fields:
   type: tag_list
   default: []
   label: tags
-- name: published
-  type: boolean
-  label: published
-  default: true
 - name: toc
   type: boolean
   label: toc
