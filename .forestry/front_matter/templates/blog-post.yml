@@ -46,3 +46,5 @@ fields:
   showOnly:
     field: toc
     value: true
+pages:
+- _posts/건강도-실력이다.md
