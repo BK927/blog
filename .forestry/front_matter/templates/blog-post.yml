@@ -48,6 +48,7 @@ fields:
     field: toc
     value: true
 pages:
+- _posts/0.md
 - _posts/2022-04-30.md
 - _posts/건강도-실력이다.md
 - _posts/자동화-전략.md
