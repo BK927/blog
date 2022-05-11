@@ -4,7 +4,7 @@ permalink: "/implementation-intention/"
 layout: single
 author_profile: true
 toc: true
-toc_label: 목차
+toc_label: 목록
 toc_sticky: true
 
 ---
