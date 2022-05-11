@@ -1,11 +1,11 @@
 ---
-title: ":trophy:명예의 전당"
+title: 명예의 전당
 permalink: "/hall-of-fame/"
 layout: single
 author_profile: true
 toc: true
 toc_label: 목차
-toc_icon: medal_sports
+toc_icon: trophy
 toc_sticky: true
 
 ---
