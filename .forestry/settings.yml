@@ -7,6 +7,10 @@ sections:
 - type: document
   path: _pages/hall-of-fame.md
   label: 명예의 전당
+- type: document
+  path: _pages/implementation-intention.md
+  label: if-then 전략
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
