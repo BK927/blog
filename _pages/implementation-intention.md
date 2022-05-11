@@ -1,6 +1,6 @@
 ---
 title: 자동화 전략
-permalink: "/if-then-strategy/"
+permalink: "/implementation-intention/"
 layout: single
 author_profile: true
 toc: true
