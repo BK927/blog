@@ -4,8 +4,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "명예의 전당"
     url: /hall-of-fame/
-  - title: "if-then 전략"
-    url: /implementation-intention/
+  - title: "인생전략"
+    url: /life-strategy/
   - title: "아카이브"
     url: /year-archive/
   - title: "카테고리"
