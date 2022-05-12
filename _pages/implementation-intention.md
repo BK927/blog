@@ -1,6 +1,6 @@
 ---
-title: 자동화 전략
-permalink: "/implementation-intention/"
+title: 인생전략
+permalink: "/life-strategy/"
 layout: single
 author_profile: true
 toc: true
@@ -8,7 +8,9 @@ toc_label: 목록
 toc_sticky: true
 
 ---
-## 판단하지 말고 규칙을 따르자
+## 실행의도(implementation intention)
+
+> ### 판단하지 말고 규칙을 따르자
 
 인간은 무의식의 집합체이며, 대부분의 결정을 본능에 맡겨서 한다. 그리고 후에 그것을 정당화 하는 방식을 쓴다.
 
@@ -34,3 +36,9 @@ toc_sticky: true
 
 * 음악을 틀어놓고 작업하는 데, 음악을 고르는 도중에 다른 영상으로 빠짐.
 * 유튜브 화면 자체가 강력한 신호가 되는 것으로 추정 -> SoundCloud 앱을 깔아서 대체함.
+
+### 애매하게 시간이 남을 때
+
+* 애매하게 시간이 남으면 마스터 듀얼 or 웹서핑 하는 습관이 있다. -> 밀리의 서재를 보는 것으로 대체.
+
+## 공간 제약
