@@ -48,6 +48,7 @@ fields:
     field: toc
     value: true
 pages:
+- _posts/1..md
 - _posts/2022-04-29-2022-04-30.md
 - _posts/2022-05-09-0.md
 - _posts/2022-05-11-1.md
