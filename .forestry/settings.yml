@@ -8,8 +8,8 @@ sections:
   path: _pages/hall-of-fame.md
   label: 명예의 전당
 - type: document
-  path: _pages/implementation-intention.md
-  label: if-then 전략
+  path: _pages/life-strategy.md
+  label: 인생 전략
 - type: jekyll-posts
   label: Posts
   create: all
