@@ -3,7 +3,7 @@ categories: 자기성찰
 tags: []
 toc_label: 목차
 toc_sticky: true
-title: Cold turkey 사용 2일째
+title: 디지털 디톡스 2일째
 date: 2022-06-14 15:00:00 +0000
 toc: false
 
